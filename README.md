@@ -1,1 +1,4 @@
-# FCC-Filesize-Service
+File Metadata Microservice
+=========================
+
+Created for freeCodeCamp
