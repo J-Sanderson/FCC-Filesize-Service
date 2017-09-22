@@ -20,8 +20,16 @@
     </h2>
 
     <p>
-      To do...
+      Select and upload a file to return a JSON object containing the file's size in bytes.
     </p>
+      
+      <form action="/upload" method="post", enctype="multipart/form-data">
+      <input type="file" name="data" id="data">
+      <br>
+      <button id="submit">
+        Submit
+      </button>
+      </form>
  
     </div>
     <div id="footer">
